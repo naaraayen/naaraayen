@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="25"> 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
-<img src="https://img.shields.io/badge/-Figma-FF6200?style=flat-square&logo=figma&logoColor=white" height="25">
 </div>
 
 ## My Stats
